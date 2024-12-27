@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdullah-mangrio
 - 👀 I’m interested in practical work
-- 🌱 I’m currently completing my bachelors degree in Computer Science
-- 💞️ I’m looking to collaborate on projects based on language C++
-- 📫 Reach me at : abdullahmangrio86@gmail.com 
+- 🌱 I’m pursuing my career in the Computer Sciences at the National University of Computer and Emerging Sciences.
+- 💞️ I’m looking to collaborate on projects based on the language C++
+- 📫 Reach me at: abdullahmangrio86@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
