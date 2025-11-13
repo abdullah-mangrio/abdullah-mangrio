@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects based on the language C++
 - 📫 Reach me at: abdullahmangrio86@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Started my first ever Project on the 10th of November 2025.
 
 <!---
 abdullah-mangrio/abdullah-mangrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
