@@ -55,7 +55,7 @@
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
 | 🔵 [**SafeCity PK**](https://github.com/abdullah-mangrio/SafeCity-PK) | Crime hotspot analyzer with real-time map, JWT auth & admin workflows | React · FastAPI · PostgreSQL · Leaflet | — |
-| 🟢 [**PakUniInfo**](https://github.com/abdullah-mangrio/PakUniInfo) | University discovery platform for Pakistani students with filters & admin panel | React · Node.js · MongoDB | [Live ↗](https://pakuniinfo.netlify.app) |
+| 🟢 [**PakUniInfo**](https://github.com/abdullah-mangrio/PakUniInfo) | University discovery platform for Pakistani students with filters & admin panel | React · Node.js · MongoDB | [Live ↗](https://pak-uni-info.vercel.app/) |
 | 🟡 [**IT Complaint System**](https://github.com/abdullah-mangrio/ITComplaintSystem) | Full desktop complaint management app built from SRS → UML → Java Swing | Java · OOP · Swing | — |
 | 🟠 [**Playlist Tracker**](https://github.com/abdullah-mangrio/playlist-tracker) | Real-time multi-user YouTube playlist catalog (900+ playlists) | HTML · Firebase | [Live ↗](https://abdullah-mangrio.github.io/playlist-tracker/) |
 
